@@ -1,8 +1,8 @@
 # crawler-server using express.js
 
 # Prerequisites:
-Node.js
-npm
+* Node.js
+* npm
 
 # Running the app:
 Run the command:
